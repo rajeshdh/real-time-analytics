@@ -1,0 +1,20 @@
+{
+  "name": "real-time-analytics",
+  "version": "1.0.0",
+  "description": "Real-Time Web Analytics with NodeJs, Socket.io, and VueJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "socket.io",
+    "vueJs"
+  ],
+  "author": "Rajesh Dhiman @paharihacker",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  }
+}
